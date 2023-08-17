@@ -34,21 +34,21 @@ This repository contains the backend architecture of a Twitter clone, built usin
 
 ## Features
 
-User registration and login
-Email authentication for secure account management
-Post creation, retrieval, and deletion
-Like and comment on posts
-Follow and unfollow users
-User profile management
+1. User registration and login
+2. Email authentication for secure account management
+3. Post creation, retrieval, and deletion
+4. Like and comment on posts
+5. Follow and unfollow users
+6. User profile management
 
 
 ## API Endpoints
 
-POST /api/auth/register: Register a new user.
-POST /api/auth/login: Authenticate and login a user.
-POST /api/posts: Create a new post.
-GET /api/posts: Retrieve a list of posts.
-GET /api/posts/:postId: Retrieve a specific post.
+1. POST /api/auth/register: Register a new user.
+2. POST /api/auth/login: Authenticate and login a user.
+3. POST /api/posts: Create a new post.
+4. GET /api/posts: Retrieve a list of posts.
+5. GET /api/posts/:postId: Retrieve a specific post.
 
 ## Authentication
 
